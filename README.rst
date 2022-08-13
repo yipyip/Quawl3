@@ -13,11 +13,11 @@ It's all about the 4 basic actions of a grid/turn based game:
 Installation
 ------------
 
-Dependencies: Python2.6+ (tested with Python2.6, should work with Python 2.7 too)
+Dependencies: Python3.8+ 
 
 Download and unpack this Repository. Enter ::
  
-    python start.py
+    python3.<x> start.py
 
 at the top level directory.
 
